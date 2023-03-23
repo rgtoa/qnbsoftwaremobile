@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/drawable/deliverybg.xml" value="0.1915" />
+        <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1915" />
+        <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/drawable/inputbackground.xml" value="0.1915" />
+        <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/drawable/inputbox.xml" value="0.171" />
+        <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/activity_main.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/completedelivery.xml" value="0.176" />
+        <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/completedlist.xml" value="0.536" />
+        <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/invalidloginpopup.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/loginpage.xml" value="0.264" />
+        <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/ongoingdelivery.xml" value="0.2" />
+        <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/ongoingempty.xml" value="0.25" />
+        <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/pendinglist.xml" value="0.264" />
+        <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/setcompletepopup.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/setongoingpopup.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/signoutpopup.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/signuppage.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/signuppopup.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/splashscrn.xml" value="0.176" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
