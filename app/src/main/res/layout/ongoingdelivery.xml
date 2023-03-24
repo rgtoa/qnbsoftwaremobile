@@ -49,6 +49,7 @@
             android:layout_alignParentTop="true"
             android:layout_marginLeft="47dp"
             android:layout_marginTop="30dp"
+            android:clickable="true"
             android:text="Pending"
             android:textColor="#0A4053"
             android:textSize="17.5sp"
@@ -62,6 +63,7 @@
             android:layout_alignParentTop="true"
             android:layout_marginLeft="131dp"
             android:layout_marginTop="30dp"
+            android:clickable="true"
             android:text="Ongoing"
             android:textColor="#0A4053"
             android:textSize="17.5sp"
@@ -75,6 +77,7 @@
             android:layout_alignParentTop="true"
             android:layout_marginLeft="215dp"
             android:layout_marginTop="30dp"
+            android:clickable="true"
             android:text="Completed"
             android:textColor="#0A4053"
             android:textSize="17.5sp"
@@ -122,7 +125,7 @@
             android:layout_alignParentTop="true"
             android:layout_marginLeft="28dp"
             android:layout_marginTop="106dp"
-            android:background="@drawable/inputbg2"
+            android:background="@drawable/inputbox2"
             android:scrollbars="vertical"
             android:text="   " />
 

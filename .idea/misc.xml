@@ -8,11 +8,11 @@
         <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/drawable/inputbackground.xml" value="0.1915" />
         <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/drawable/inputbox.xml" value="0.171" />
         <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/activity_main.xml" value="0.213768115942029" />
-        <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/completedelivery.xml" value="0.176" />
-        <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/completedlist.xml" value="0.536" />
+        <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/completedelivery.xml" value="0.264" />
+        <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/completedlist.xml" value="0.264" />
         <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/invalidloginpopup.xml" value="0.24895833333333334" />
         <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/loginpage.xml" value="0.264" />
-        <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/ongoingdelivery.xml" value="0.2" />
+        <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/ongoingdelivery.xml" value="0.264" />
         <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/ongoingempty.xml" value="0.25" />
         <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/pendinglist.xml" value="0.264" />
         <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/setcompletepopup.xml" value="0.213768115942029" />
@@ -20,7 +20,7 @@
         <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/signoutpopup.xml" value="0.24895833333333334" />
         <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/signuppage.xml" value="0.213768115942029" />
         <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/signuppopup.xml" value="0.213768115942029" />
-        <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/splashscrn.xml" value="0.176" />
+        <entry key="..\:/Users/97433/AndroidStudioProjects/MobileSoftware1/app/src/main/res/layout/splashscrn.xml" value="0.2" />
       </map>
     </option>
   </component>
